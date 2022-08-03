@@ -45,3 +45,4 @@ output "HOSTEDZONE_PUBLIC_ZONE" {
 output "HOSTEDZONE_PUBLIC_ID" {
   value = var.HOSTEDZONE_PUBLIC_ID
 }
+
