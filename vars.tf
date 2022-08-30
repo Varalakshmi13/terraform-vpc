@@ -10,3 +10,4 @@ variable "HOSTEDZONE_PRIVATE_ID" {}
 variable "HOSTEDZONE_PRIVATE_ZONE" {}
 variable "HOSTEDZONE_PUBLIC_ZONE" {}
 variable "HOSTEDZONE_PUBLIC_ID" {}
+
